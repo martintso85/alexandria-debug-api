@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+pypdf
+pdfplumber
+pandas
+openpyxl
+python-docx
